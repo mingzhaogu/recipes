@@ -46,5 +46,5 @@
 - Let it rest for 12-24 hours in the freezer. (放到冰箱里冰12-24小时。)
 - Sift the **cocoa powder** on top before serving. (吃前撒上可可粉。)
 
-## Source:
+## Source
 > http://blog.sina.com.cn/s/blog_7c3ce4950100r5as.html
