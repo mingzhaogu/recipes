@@ -14,7 +14,7 @@ Servings: 2
 - [ ] pepper, to taste
 
 ## Instructions
-- Preheat oven to 400&deg;F (200°C)
+- Preheat oven to 400&deg;F
 - Slice the **puff pastry** into ½-inch (1-centimeter) strips.
 - Slice the **bacon** in half lengthwise into thin strips.
 - Wrap a strip of **bacon** around an **asparagus spear** in a spiral.
