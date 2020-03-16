@@ -1,4 +1,4 @@
-# Food
+# Bacon Asparagus Pastry Twists
 Servings: 2
 
 ## Equipment

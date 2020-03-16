@@ -1,4 +1,4 @@
-# Food
+# Creamy Tuscan Chicken
 Servings: 4
 
 ## Equipment

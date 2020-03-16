@@ -1,4 +1,4 @@
-# Food
+# Garlic Butter Steak
 Servings: 2
 
 ## Equipment
