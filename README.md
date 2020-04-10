@@ -5,6 +5,8 @@ A compilation of recipes I like. 😋
 
 ## Main Course
 - [Creamy Tuscan Chicken](./main-course/creamy-tuscan-chicken.md)
+- [Garlic Butter Steak](./main-course/garlic-butter-steak.md)
+- [Lemon Garlic Baked Chicken Thighs](./main-course/lemon-garlic-baked-chicken-thighs.md)
 
 ## Desserts
 - [Macaron](./desserts/macaron.md)
