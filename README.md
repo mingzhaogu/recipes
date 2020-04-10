@@ -9,5 +9,6 @@ A compilation of recipes I like. 😋
 - [Lemon Garlic Baked Chicken Thighs](./main-course/lemon-garlic-baked-chicken-thighs.md)
 
 ## Desserts
+- [Banana Bread](./desserts/banana-bread.md)
 - [Macaron](./desserts/macaron.md)
 - [Tiramisu](./desserts/tiramisu.md)
