@@ -1,4 +1,5 @@
 # Food
+Servings: #
 
 ## Equipment
 - [ ]
